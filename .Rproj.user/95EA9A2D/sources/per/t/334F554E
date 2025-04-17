@@ -1,0 +1,26 @@
+{
+    "id": "334F554E",
+    "path": "~/world-happiness-dashboard/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "2629818784",
+    "contents": "",
+    "dirty": false,
+    "created": 1744869741348.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "104,13",
+        "scrollLine": "89"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744869096,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744869096,
+    "read_only": false,
+    "read_only_alternatives": []
+}
